@@ -8,7 +8,7 @@ Make sure you have Python installed on your computer before downloading pygame v
 ```python
 python3 -m pip install -U pygame --user
 ```
-Run the .py file to see the GUI.
+Run the .py file after optimizing all imports via an IDE to see the GUI.
 
 To play the game:
 - The first click positions your starting node at the location of the mouse on the grid.
